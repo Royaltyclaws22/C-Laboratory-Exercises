@@ -37,9 +37,16 @@ cd C-Laboratory-Exercises/01_ASCII_Shape_Generator
 gcc ASCII_Shape_Generator.c -o ASCII_Shape_Generator
 ```
 4. Run the program:
-```bash
-./ASCII_Shape_Generator
-```
+
+* **Windows (Command Prompt)**
+  ```bash
+  ASCII_Shape_Generator.exe
+  ```
+
+* **Linux / macOS**
+  ```bash
+  ./ASCII_Shape_Generator
+  ```
 
 
 ## 💡 Usage

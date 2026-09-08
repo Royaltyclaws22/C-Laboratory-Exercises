@@ -3,6 +3,10 @@
 A C console application that simulates heat diffusion on a two-dimensional temperature plate. The program models the temperature evolution of a 10×20 plate over time using a discrete heat diffusion equation and evaluates whether the system reaches a steady state.
 
 
+## 🔎 Preview
+<img width="1280" height="679" alt="Heat_Diffusion_Simulation" src="https://github.com/user-attachments/assets/d77d9de1-eeba-4d54-8f27-9b1613b0210d" />
+
+
 ## ⚙️ Features
 
 - Initialize a 10×20 temperature plate with:

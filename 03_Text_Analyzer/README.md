@@ -8,6 +8,7 @@ It demonstrates file handling, text processing, and multiple data structure impl
 
 
 ## 🔎 Preview
+<img width="1280" height="679" alt="Text_Analyzer_2" src="https://github.com/user-attachments/assets/519a570b-0bcc-4f72-9c23-7f271e5f11dc" />
 
 
 ## ⚙️ Features
